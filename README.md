@@ -3,7 +3,7 @@
 Welcome to my corner of the internet! I'm a penultimate-year student at NUS Computing, with a Specialisation in Machine Learning and a Minor in Statistics.
 I'm a Software Engineer who loves watching films and listening to all kinds of music, and I'm also a huge fan of several different sports, thus my passion for Sports Analytics. 
 
-I also recently begun creating my own [Digital Garden](https://github.com/kienanana/kienanana.xyz) to document what I'm learning and thinking. I take my notes with [Obsidian](https://obsidian.md/). 
+I also recently begun creating my own [Digital Garden](http://kienanana.xyz/) to document what I'm learning and thinking. I take my notes with [Obsidian](https://obsidian.md/). 
 
 My main editor is [Neovim](https://github.com/neovim/neovim). 
 
