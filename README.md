@@ -41,5 +41,3 @@ Feel free to drop a message if you share any of these interests. :)
 
 - Email: kienan.yong@u.nus.edu
 - LinkedIn: [linkedin.com/in/kienan-yong](https://linkedin.com/in/kienan-yong)
-
-![kienanana's GitHub stats](https://github-readme-stats.vercel.app/api?username=kienanana&show_icons=true&theme=tokyonight)
